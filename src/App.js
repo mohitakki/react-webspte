@@ -14,19 +14,19 @@ function App() {
       <Banner />
       {/* SEARCH PART */}
 
-      <Search />
+      {/* <Search /> */}
       {/* POPULAR DESTINATION */}
 
-      <Popular />
+      {/* <Popular /> */}
       {/* SPECIAL OFFERS */}
 
-      <Offers />
+      {/* <Offers /> */}
       {/* REVIEWS PART*/}
 
-      <Reviews />
+      {/* <Reviews /> */}
       {/* FOOTER PART */}
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
